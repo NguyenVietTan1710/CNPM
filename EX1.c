@@ -3,6 +3,8 @@
 #include <string.h>
 #include <stdlib.h>
 
+"Đăng đã edit file này"
+
 int GiaiThua (int n)
 {
 
